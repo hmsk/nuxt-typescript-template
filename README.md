@@ -1,4 +1,4 @@
-# nuxt-edge + Typescript Starter
+# Nuxt 2 + TypeScript Starter
 
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
