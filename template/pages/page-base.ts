@@ -13,10 +13,6 @@ export default class PageBase extends Vue {
     };
   }
 
-  get ogUrl (): string {
-    return process.env.baseUrl;
-  }
-
   get pageTitle (): string {
     return "Nuxt TypeScript Project";
   }

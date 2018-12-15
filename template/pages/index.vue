@@ -6,6 +6,7 @@
 </template>
 
 <script lang="ts">
+  import { Component } from "nuxt-property-decorator";
   import PageBase from "./page-base";
   import TipsBlock from "~/components/tips-block.vue";
 
