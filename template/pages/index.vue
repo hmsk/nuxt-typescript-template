@@ -6,7 +6,7 @@
 </template>
 
 <script lang="ts">
-  import { Component, Vue } from "nuxt-property-decorator";
+  import PageBase from "./page-base";
   import TipsBlock from "~/components/tips-block.vue";
 
   @Component({
@@ -14,7 +14,7 @@
       TipsBlock
     }
   })
-  export default class PageIndex extends Vue {
+  export default class PageIndex extends PageBase {
   }
 </script>
 
