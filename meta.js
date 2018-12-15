@@ -25,8 +25,16 @@ module.exports = {
       type: "string",
       message: "Color for loading bar",
       default: "#3B8070"
+    },
+    vscode: {
+      type: "confirm",
+      message: "Use VSCode to edit the project?",
+      default: true
     }
   },
+  filters: {
+    "tsconfig.json": "vscode"
+  },
   completeMessage:
-    "{{#inPlace}}To get started:\n\n  npm install # Or yarn\n  npm run dev{{else}}To get started:\n\n  cd {{destDirName}}\n  npm install # Or yarn\n  npm run dev{{/inPlace}}"
+    "{{#inPlace}}To get started:\n\n  npm install # Or yarn\n  npm run dev{{else}}To get started:\n\n  cd {{destDirName}}\n  npm install # Or yarn\n  npm run dev{{/inPlace}}",
 }
