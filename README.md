@@ -10,11 +10,15 @@ $ npm install # Or yarn
 
 - Requires `@vue-cli/init` or `vue-cli@^2.1.0`
 
-# TypeScript Setup
+## TypeScript Setup
 
 - [nuxt-ts](https://www.npmjs.com/package/nuxt-ts) module does everything.
 
-# LICENSE
+## Preview
+
+![image](https://user-images.githubusercontent.com/85887/50041889-99b89b80-0010-11e9-811a-cc596dbf0b8c.png)
+
+## LICENSE
 
 MIT
 
