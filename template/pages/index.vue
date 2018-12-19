@@ -1,7 +1,7 @@
 <template>
   <section>
-    <h1>nuxt-edge + TypeScript Starter</h1>
-    <tips-block message="Initialized nuxt-edge+TS project" />
+    <h1>{{ name }}</h1>
+    <tips-block message="{{ description }}" />
   </section>
 </template>
 

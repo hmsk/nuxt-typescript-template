@@ -14,10 +14,10 @@ export default class PageBase extends Vue {
   }
 
   get pageTitle (): string {
-    return "Nuxt TypeScript Project";
+    return "{{ name }}";
   }
 
   get pageDescription (): string {
-    return "Typed Nuxt Project";
+    return "{{ description }}";
   }
 }
