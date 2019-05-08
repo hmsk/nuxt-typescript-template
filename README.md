@@ -1,3 +1,8 @@
+# THIS REPO IS ABANDONED
+
+Use [nuxt-community/typescript-template](https://github.com/nuxt-community/typescript-template) instead. I'm now maintaining that repo 😉.
+This repo will be archived soon.
+
 # Nuxt 2 + TypeScript Starter
 
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
