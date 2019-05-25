@@ -1,7 +1,6 @@
 # THIS REPO IS ABANDONED
 
-Use [nuxt-community/typescript-template](https://github.com/nuxt-community/typescript-template) instead. I'm now maintaining that repo 😉.
-This repo will be archived soon.
+Use [nuxt-community/typescript-template](https://github.com/nuxt-community/typescript-template) instead.
 
 Also, https://medium.com/haiiro-io/typescript-on-nuxt-js-from-2-5-9d109027cdd3 may help you.
 
